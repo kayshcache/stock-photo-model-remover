@@ -1,6 +1,5 @@
-# Chrome Extension
-# Stock-photo Model Remover
-## Remove photos of fake people from the web
+# Chrome Extension: Stock Photo Model Remover
+## Remove photos of fake people from your experience of the web
 ### Disgusted by fake people pretending to enjoy products? This extension is for you.
 This Chrome extension does facial recognition on the faces of people in photos on any site you visit. If it finds a person's face in any stock photography repo or commercial marketing photo distribution service, it will cover the photos with a grey square and text indicating FAKE PEOPLE REMOVED - simply click on the photo to uncover.
 Advertisers have power to display whatever picture they like on the streets - let's take back the Internet from these manipulative and cynical agencies.
