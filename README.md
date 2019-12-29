@@ -1,3 +1,4 @@
+# Chrome Extension
 # Stock-photo Model Remover
 ## Remove photos of fake people from the web
 ### Disgusted by fake people pretending to enjoy products? This extension is for you.
